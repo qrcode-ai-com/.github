@@ -18,7 +18,7 @@ We are developing separate QR code reader and barcode reader experiences. A phot
 
 | Product | Intended focus | Availability |
 | --- | --- | --- |
-| [QR Code Scanner](https://qrcode-ai.com/en-US/qr-code-scanner) | Reading QR codes from images and screenshots. | In development; product page in preparation. |
+| [QR Code Scanner](https://qrcode-ai.com/en-US/qr-code-scanner) | QR scanner workflows for images and screenshots. | In development; product page in preparation. |
 | [Barcode Scanner](https://qrcode-ai.com/en-US/barcode-scanner) | Barcode reading and everyday label-scanning workflows. | In development; product page in preparation. |
 
 The scanner links above identify planned product pages. Use the main website for currently available products and information.
