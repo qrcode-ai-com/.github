@@ -8,13 +8,14 @@ The organization overview is maintained in [profile/README.md](profile/README.md
 | --- | --- |
 | `hero-*`, `engine-*`, `formats-*`, `destinations-*`, `runtimes-*`, `journey-*`, `create-*`, `footer.png` | The organization overview. |
 | `mark-*` | The organization overview: the logo that opens a row of a table. |
-| `banner-rust-*`, `banner-node-*`, `banner-browser-*`, `banner-python-*`, `banner-cli-*` | The README of each package of [qrcode-barcode-scanner-rust](https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust). |
+| `banner-rust-*`, `banner-node-*`, `banner-browser-*`, `banner-python-*`, `banner-cli-*`, `banner-flutter-*`, `banner-android-*`, `banner-ios-*`, `banner-dotnet-*` | The README of each package and binding of [qrcode-barcode-scanner-rust](https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust), above its title. |
+| `how-rust-*`, `how-browser-*`, `how-python-*`, `how-flutter-*`, `how-cli-*` | The same READMEs, before the install section: the package's three steps, under the names of its own calls. |
 | `banner-go-*`, `how-go-*` | The README of [qrcode-barcode-scanner-go](https://github.com/qrcode-ai-com/qrcode-barcode-scanner-go). |
 | `banner-php-*`, `how-php-*` | The README of [qrcode-barcode-scanner-php](https://github.com/qrcode-ai-com/qrcode-barcode-scanner-php). |
 
-The package banners are animations. They are stored here so that they do not weigh on a clone of the engine. A banner quotes the first lines of its package's quick start: render it again when that code changes.
+The package banners and journeys are animations. They are stored here so that they do not weigh on a clone of the engine. A banner quotes the first lines of its package's quick start, and a journey names its install command and its calls: render them again when that code changes.
 
-Language and platform names and logos belong to their owners; here they identify a runtime or show where a package is published, and imply no endorsement. The Go gopher was designed by Renée French and is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). The PHP logo was designed by Colin Viebrock and is licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Rust and the Rust logo are trademarks of the Rust Foundation, Node.js is a trademark of the OpenJS Foundation, and the Python logo is a trademark of the Python Software Foundation.
+Language and platform names and logos belong to their owners; here they identify a runtime or show where a package is published, and imply no endorsement. The Go gopher was designed by Renée French and is licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). The PHP logo was designed by Colin Viebrock and is licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Rust and the Rust logo are trademarks of the Rust Foundation, Node.js is a trademark of the OpenJS Foundation, and the Python logo is a trademark of the Python Software Foundation. Flutter and the Flutter logo are trademarks of Google LLC, Kotlin and the Kotlin logo are trademarks of the Kotlin Foundation, Swift and the Swift logo are trademarks of Apple Inc., and .NET is a trademark of Microsoft Corporation.
 
 Visit [qrcode-ai.com](https://qrcode-ai.com) to create QR codes and barcodes. The scanner source is in [qrcode-barcode-scanner-rust](https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust).
 
